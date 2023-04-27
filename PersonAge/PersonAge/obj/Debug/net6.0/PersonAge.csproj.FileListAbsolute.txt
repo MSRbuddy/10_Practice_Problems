@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\bin\Debug\net6.0\PersonAge.exe
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\bin\Debug\net6.0\PersonAge.deps.json
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\bin\Debug\net6.0\PersonAge.runtimeconfig.json
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\bin\Debug\net6.0\PersonAge.dll
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\bin\Debug\net6.0\PersonAge.pdb
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.AssemblyInfo.cs
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.dll
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\refint\PersonAge.dll
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.pdb
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\PersonAge.genruntimeconfig.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PersonAge\PersonAge\obj\Debug\net6.0\ref\PersonAge.dll
